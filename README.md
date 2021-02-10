@@ -5,6 +5,8 @@
 
 Collection of useful scripts
 
+Firefox code copy extension [link](https://addons.mozilla.org/en-US/firefox/addon/codecopy/_)
+
 ## Fresh start
 
 ```bash
